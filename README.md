@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="google7edb89e005ad12b9" />
     <title>Gazania Restaurant LLC - Authentic Middle Eastern Cuisine in Al Warqa, Dubai</title>
     <meta name="description" content="Experience the finest Middle Eastern cuisine at Gazania Restaurant in Al Warqa, Dubai. Specializing in grilled meats, shawarma, and traditional dishes. Order now or reserve your table!">
     <meta name="keywords" content="Best restaurant in Al Warqa, Shawarma Dubai, Charcoal chicken Dubai, Middle Eastern cuisine, Iranian shawarma, Dubai restaurant">
